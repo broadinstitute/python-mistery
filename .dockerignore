@@ -1,6 +1,6 @@
-Dockerfile
+.[a-z]*
 .git*
 dev.sh
-tests/*
+Dockerfile
 pylama.ini
-.[a-z]*
+tests/*
