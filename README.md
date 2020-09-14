@@ -1,13 +1,13 @@
 # python-mistery
 
-Python library to interact with the MIST API
+Python library to interact with the MIST API.
 
 [![image](https://img.shields.io/pypi/pyversions/mistery.svg)](https://pypi.org/project/mistery/)
 [![codecov](https://codecov.io/gh/broadinstitute/python-mistery/branch/master/graph/badge.svg)](https://codecov.io/gh/broadinstitute/python-mistery)
 
 ## Basics
 
-Basic information about the package
+The documentation on interacting with the MIST API can be found at [https://api.mist.com/api/v1/docs/Home](https://api.mist.com/api/v1/docs/Home).
 
 ## Features
 
