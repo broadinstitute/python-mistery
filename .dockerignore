@@ -1,0 +1,6 @@
+Dockerfile
+.git*
+dev.sh
+tests/*
+pylama.ini
+.[a-z]*
